@@ -1,0 +1,8 @@
+submit avirup.dandapat@mindtree.com jmyJlT9ULgJe3xJe
+val langsGroupedScores = vs.groupBy(_._1).mapValues(_.size)
+      val mostCommonLang = langsGroupedScores.maxBy(_._2)
+      val langsScores = langsGroupedScores.values.toArray.sortedexit
+exit
+submit avirup.dandapat@mindtree.com jmyJlT9ULgJe3xJe
+submit avirup.dandapat@mindtree.com ahulQRVF3TqivYTC
+exit

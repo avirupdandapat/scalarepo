@@ -1,0 +1,494 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\stackoverflow\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+39 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\package$.class
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\package.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting$.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$10.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$12.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$13.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$14.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$15.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$2.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$3.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$4.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$5.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6$$anonfun$apply$3.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$8.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9$$anonfun$apply$4.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$2.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$findClosest$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$2.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$rawPostings$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$2.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$scoredPostings$1$$anonfun$apply$2.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$scoredPostings$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$vectorPostings$1$$anonfun$apply$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$vectorPostings$1.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$vectorPostings$2.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$.class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow.class
+binary dependencies:
+5 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\stackoverflow\src\main\scala\stackoverflow\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+39 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow.package
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow.package$
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.Posting
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.Posting$
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$10
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$12
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$13
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$14
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$15
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$5
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6$$anonfun$apply$3
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$8
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9$$anonfun$apply$4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$findClosest$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$rawPostings$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1$$anonfun$apply$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$vectorPostings$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$vectorPostings$1$$anonfun$apply$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$vectorPostings$2
+used names:
+291 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> <init>
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> AnyRef
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> Int
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> Object
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> Posting
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> package
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> scala
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> $conforms
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> %
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> &&
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> *
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> +
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> -
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> /
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <:<
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <byname>
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <init>
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <repeated>
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ==
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> >
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> >=
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> A
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> AbstractFunction6
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Answer
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Any
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> AnyRef
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Array
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ArrayOps
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> B
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> B1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Boolean
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> CanBuildFrom
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Class
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ClassTag
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Coll
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Double
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> FilterMonadic
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Function1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> HighScore
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> IndexOutOfBoundsException
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> IndexedSeq
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Int
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Iterable
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Iterator
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> K
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> LangIndex
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> List
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Long
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Map
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> MatchError
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> None
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Nothing
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Object
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Option
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Ordering
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> PairRDDFunctions
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Posting
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Predef
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Product
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> QID
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Question
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> RDD
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Random
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Range
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> RichInt
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ScalaRunTime
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Serializable
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Some
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> SparkConf
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> SparkContext
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StackOverflow
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Statics
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> String
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StringContext
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StringOps
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T0
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T3
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T5
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T6
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> That
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> TraversableOnce
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple6
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> U
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Unit
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> V
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> W
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _$4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _$7
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _3
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _toString
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> abs
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> acceptedAnswer
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> allScores
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> annotation
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> answerHighScore
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> answers
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> anyHash
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> apache
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> apply
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$3
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$5
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$6
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$7
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arr
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> as
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> asInstanceOf
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> assert
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> augmentString
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> averageVectors
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> bestIndex
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> cache
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> canBuildFrom
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> centers
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> closest
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> closestGrouped
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterAvg
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterResults
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterSize
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clustered
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> collect
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> collection
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> comp1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> comp2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> conf
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> converged
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> count
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> debug
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> distance
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> elt
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> eq
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> euclideanDistance
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> f
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> filter
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> finalizeHash
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> findClosest
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> firstLangInTag
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> flatMap
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> foreach
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> format
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> get
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> getOrElse
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupBy
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupByKey
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> grouped
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupedPostings
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> hasNext
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> head
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> highScore
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> i
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> id
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> idx
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> immutable
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> indices
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intArrayOps
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intWrapper
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intern
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isEmpty
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isInstanceOf
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> item
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> iter
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> iterator
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> j
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> join
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeans
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansEta
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansKernels
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansMaxIterations
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lang
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langLabel
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langPercent
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langSpread
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langs
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langsGroupedScores
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> length
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> line
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lines
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ls
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> map
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mapValues
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> materializeClassTag
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> math
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> maxBy
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> means
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> median
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> medianScore
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mix
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mostCommonLang
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ne
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> newMeans
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> next
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> nextLong
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> org
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> p
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> package
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> parentId
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> part1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> part2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> perLang
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> percent
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> postingType
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> postings
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> printResults
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> println
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ps
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> q
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> questions
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> raw
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rawPostings
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rdd
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rddToPairRDDFunctions
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> refArrayOps
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> reflect
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> res
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> reservoirSampling
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> results
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rnd
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> runtime
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> s
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sampleVectors
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sc
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scala
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> score
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scored
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scoredPostings
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> setAppName
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> setMaster
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> size
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sortBy
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sorted
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> spark
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> split
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stripMargin
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sum
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tag
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tags
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tail
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tailrec
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> takeSample
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tempDist
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> textFile
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tmp
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toArray
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toDouble
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toInt
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toIterator
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toList
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toLong
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toMap
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toString
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> typedProductIterator
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> unchecked
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> until
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> update
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> util
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> values
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectorPostings
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectors
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vs
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$1
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$2
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$3
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$4
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> withFilter
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$13
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$14
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$15
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$16
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ||
+product stamps:
+39 items
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\package$.class -> lastModified(1558178972063)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\package.class -> lastModified(1558178972054)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting$.class -> lastModified(1558179564857)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting.class -> lastModified(1558179564928)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$1.class -> lastModified(1558179565024)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$10.class -> lastModified(1558179565030)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$12.class -> lastModified(1558179565044)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$13.class -> lastModified(1558179565048)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$14.class -> lastModified(1558179565053)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$15.class -> lastModified(1558179565057)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11.class -> lastModified(1558179565040)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$2.class -> lastModified(1558179565062)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$3.class -> lastModified(1558179565067)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$4.class -> lastModified(1558179565072)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$5.class -> lastModified(1558179565084)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6$$anonfun$apply$3.class -> lastModified(1558179565101)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6.class -> lastModified(1558179565090)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7.class -> lastModified(1558179565106)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$8.class -> lastModified(1558179565110)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9$$anonfun$apply$4.class -> lastModified(1558179565118)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9.class -> lastModified(1558179565115)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$1.class -> lastModified(1558179565121)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$2.class -> lastModified(1558179565126)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$findClosest$1.class -> lastModified(1558179565131)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$1.class -> lastModified(1558179565135)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$1.class -> lastModified(1558179565163)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$2.class -> lastModified(1558179565169)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$rawPostings$1.class -> lastModified(1558179565175)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$1.class -> lastModified(1558179565178)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$2.class -> lastModified(1558179565181)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$scoredPostings$1$$anonfun$apply$2.class -> lastModified(1558179565189)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$scoredPostings$1.class -> lastModified(1558179565186)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1558179565197)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class -> lastModified(1558179565193)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$vectorPostings$1$$anonfun$apply$1.class -> lastModified(1558179565203)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$vectorPostings$1.class -> lastModified(1558179565201)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$vectorPostings$2.class -> lastModified(1558179565206)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$.class -> lastModified(1558179565016)
+D:\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow.class -> lastModified(1558179565005)
+source stamps:
+2 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> hash(a76486ea92f8ad69b083c54d9922d75e90fb1109)
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> hash(21a371be18b84c9ec9c8122fc761eb2584b0d5a9)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> lastModified(1538109363272)
+C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> java.lang.Object
+C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.PairRDDFunctions
+C:\Users\M1048730\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.runtime.AbstractFunction6
+internal apis:
+2 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwq5ClRgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj+xuC3QABm5vdGlmeXNxAH4ADHa2efd0AAdwYWNrYWdlc3EAfgAMsoNfdXQABHdhaXRzcQB+AAxSlmDcdAANJGFzSW5zdGFuY2VPZnNxAH4ADCM+WCx0AAZlcXVhbHNzcQB+AAx0+TfcdAAIUXVlc3Rpb25zcQB+AAxk4BRFdAAMYXNJbnN0YW5jZU9mc3EAfgAMvHXSGnQADHN5bmNocm9uaXplZHNxAH4ADG2DiD90AA0kaXNJbnN0YW5jZU9mc3EAfgAMbzXJLnQACUxhbmdJbmRleHNxAH4ADD9oonJ0AAlub3RpZnlBbGxzcQB+AAzKuStddAAMaXNJbnN0YW5jZU9mc3EAfgAM8b0Fv3QACUhpZ2hTY29yZXNxAH4ADEIO5mp0AANRSURzcQB+AAx2xWn3dAACPT1zcQB+AAxZUTwwdAAFY2xvbmVzcQB+AAwMHqV0dAAIdG9TdHJpbmdzcQB+AAwDxE+JdAACIT1zcQB+AAxHjCZzdAAIZ2V0Q2xhc3NzcQB+AAwxk+b6dAACbmVzcQB+AAxepwCsdAACZXFzcQB+AAy3WqF0dAACIyNzcQB+AAyY97a/dAAIZmluYWxpemVzcQB+AAzy50rldAAIaGFzaENvZGVzcQB+AAyCd56udAAGQW5zd2Vyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFXN0YWNrb3ZlcmZsb3cucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAANc3RhY2tvdmVyZmxvd3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABasq0Lll1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAqRDpcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUp2SG6pL4rWmwg8VNmSLXXpD7EQk=
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+DYvsgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfUUeG3QABm5vdGlmeXNxAH4ADCC9L2h0AAlrbWVhbnNFdGFzcQB+AAwm/kiudAALcmF3UG9zdGluZ3NzcQB+AAzhfmTSdAAEd2FpdHNxAH4ADEpgv6Z0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADKAbXx50AA0kYXNJbnN0YW5jZU9mc3EAfgAMrF9GvHQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM+E5g/nQADHByb2R1Y3RBcml0eXNxAH4ADFc6vOl0AAZlcXVhbHNzcQB+AAxsl/sydAAEdGFnc3NxAH4ADMm46bR0AAxhc0luc3RhbmNlT2ZzcQB+AAzC20w7dAAMc3luY2hyb25pemVkc3EAfgAMswm7AnQABXNjb3Jlc3EAfgAMcm5WO3QAAnNjc3EAfgAMG/Bc8HQAE2ttZWFuc01heEl0ZXJhdGlvbnNzcQB+AAxi8TX7dAANJGlzSW5zdGFuY2VPZnNxAH4ADGnBqtt0AA1TdGFja092ZXJmbG93c3EAfgAMzlyeHXQADHByaW50UmVzdWx0c3NxAH4ADMifa310AAVsYW5nc3NxAH4ADKV0QMV0AAhjYW5FcXVhbHNxAH4ADB7uHC50AA5jb3B5JGRlZmF1bHQkNHNxAH4ADMSE3bJ0AAtwb3N0aW5nVHlwZXNxAH4ADEnpIwZ0AA52ZWN0b3JQb3N0aW5nc3NxAH4ADHucS/Z0AARtYWluc3EAfgAMbsPDDnQACmxhbmdTcHJlYWRzcQB+AAykuCmndAAQa21lYW5zJGRlZmF1bHQkNHNxAH4ADHZhjSZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMeWKO4HQACW5vdGlmeUFsbHNxAH4ADFl580R0AARjb25mc3EAfgAMEniSd3QACWNvbnZlcmdlZHNxAH4ADA5KQgJ0AAxpc0luc3RhbmNlT2ZzcQB+AAy9PvrRdAAGPGluaXQ+c3EAfgAMkng77nQAAmlkc3EAfgAMoiZd83QAEGttZWFucyRkZWZhdWx0JDNzcQB+AAwG4E9ydAAHUG9zdGluZ3NxAH4ADBbtZCZ0AA5zY29yZWRQb3N0aW5nc3NxAH4ADOYFunt0AAI9PXNxAH4ADARsow90AAVjbG9uZXNxAH4ADKoKMtR0AA5hY2NlcHRlZEFuc3dlcnNxAH4ADHhDZ+x0AA1rbWVhbnNLZXJuZWxzc3EAfgAM6TWlCnQABiRpbml0JHNxAH4ADGjX6Mx0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADGaSQS50AARjb3B5c3EAfgAMt6kA63QACHRvU3RyaW5nc3EAfgAMRP6vvHQAD2dyb3VwZWRQb3N0aW5nc3NxAH4ADLM2Tip0AAIhPXNxAH4ADDjQNpZ0AA1zYW1wbGVWZWN0b3Jzc3EAfgAMpgeZw3QADmNsdXN0ZXJSZXN1bHRzc3EAfgAMXVMdTXQACGdldENsYXNzc3EAfgAM7Evs4XQADmNvcHkkZGVmYXVsdCQxc3EAfgAM0PcuKXQAEWV1Y2xpZGVhbkRpc3RhbmNlc3EAfgAMBZfqdnQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMf5fJdHQAAm5lc3EAfgAMAxTzAXQACHBhcmVudElkc3EAfgAMWcxCLXQADmF2ZXJhZ2VWZWN0b3Jzc3EAfgAMnk3rW3QAAmVxc3EAfgAMeF4/pHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADKetkdZ0AAIjI3NxAH4ADBMs07d0AAhmaW5hbGl6ZXNxAH4ADAspfBZ0AAtmaW5kQ2xvc2VzdHNxAH4ADJLPpOB0AAZrbWVhbnNzcQB+AAy0HBKTdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAw4o2uDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVc3RhY2tvdmVyZmxvdy5Qb3N0aW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgCyc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AkAAAAABzcQB+AK11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALF0AAdQcm9kdWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDLc3EAfgC+dAAGRXF1YWxzcQB+AMRzcQB+AL50AAxTZXJpYWxpemFibGVxAH4AxHNxAH4AvnEAfgDTc3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynQABGphdmFzcQB+AMp0AAJpb3EAfgDPc3EAfgC+dAAGT2JqZWN0c3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynEAfgDZc3EAfgDKdAAEbGFuZ3EAfgDPc3EAfgC+dAADQW55cQB+AMRzcQB+AJJxAH4An3VxAH4AoAAAAABzcQB+AKIAdAAbc3RhY2tvdmVyZmxvdy5TdGFja092ZXJmbG93dXEAfgClAAAAAH5xAH4Ap3QABk1vZHVsZXVxAH4AqwAAAAF0ABhzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWNzcQB+AK1xAH4As3NxAH4ArXNxAH4AtXNxAH4ArXVxAH4AkAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AlnEAfgCfdXEAfgCgAAAAAHNxAH4AogBxAH4APXVxAH4ApQAAAABzcQB+AL50AARVbml0c3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynEAfgDNcQB+AM91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgD1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCodAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgC/WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCxc3EAfgC+dAAFQXJyYXlxAH4A/XVxAH4AvAAAAAFzcQB+AL50AAZTdHJpbmdzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANlzcQB+AMpxAH4A43EAfgDPc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AvAAAAAVzcQB+AL50AA1TdGFja092ZXJmbG93c3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynQADXN0YWNrb3ZlcmZsb3dxAH4Az3NxAH4AvnEAfgDTcQB+AP1zcQB+AL5xAH4A03NxAH4AwnNxAH4AxXVxAH4AyAAAAANzcQB+AMpxAH4A2XNxAH4AynQAAmlvcQB+AM9zcQB+AL5xAH4A3XEAfgEXc3EAfgC+cQB+AOVxAH4A/XNxAH4AknEAfgCfdXEAfgCgAAAAAHNxAH4AogB0ABtzdGFja292ZXJmbG93LlN0YWNrT3ZlcmZsb3d1cQB+AKUAAAAAcQB+AKl1cQB+AKsAAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3EAfgCtcQB+ALNzcQB+AK1zcQB+ALVzcQB+AK11cQB+AJAAAAAAc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AvAAAAARzcQB+AL5xAH4A03NxAH4AwnNxAH4AxXVxAH4AyAAAAAJzcQB+AMpxAH4AzXEAfgDPc3EAfgC+cQB+ANNzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANlzcQB+AMp0AAJpb3EAfgDPc3EAfgC+cQB+AN1zcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANlzcQB+AMpxAH4A43EAfgDPc3EAfgC+cQB+AOVxAH4BQnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXN0YWNrb3ZlcmZsb3dzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWrKvTOKdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAKkQ6XHN0YWNrb3ZlcmZsb3dcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCGjcb4YuEyeycgSL8dh6yWEsNWp
+external apis:
+0 items
+source infos:
+2 items
+D:\stackoverflow\src\main\scala\stackoverflow\package.scala -> 
+AAAAAAAAAAA=
+D:\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABasq0Lll1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKkQ6XHN0YWNrb3ZlcmZsb3dcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABasq9M4p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKkQ6XHN0YWNrb3ZlcmZsb3dcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
